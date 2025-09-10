@@ -1,0 +1,14 @@
+{
+  "name": "ayodele-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "ethers": "^5.7.2"
+  },
+  "scripts": {
+    "start": "node init && react-scripts start",
+    "build": "node init && react-scripts build"
+  }
+}
